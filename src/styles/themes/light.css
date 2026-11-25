@@ -1,0 +1,40 @@
+[data-theme='light'] {
+  color-scheme: light;
+
+  --bg: #fafaf7;
+  --fg: #17251d;
+  --surface: #ffffff;
+  --surface-elevated: #f0f5ef;
+  --muted: #5a675f;
+  --primary: #388536;
+  --primary-hover: #2d6d2b;
+  --primary-fg: #ffffff;
+  --secondary: #1e4d4f;
+  --secondary-fg: #ffffff;
+  --accent: #b88a1c;
+  --accent-fg: #ffffff;
+  --border: #dce5de;
+  --hairline: rgba(23, 37, 29, 0.12);
+  --input-bg: #ffffff;
+  --focus-ring: #388536;
+
+  --band-contrast-bg: #132119;
+  --band-contrast-fg: #f5f7f5;
+  --band-contrast-muted: #b4c0b8;
+  --logo-surface: #ffffff;
+  --gold-tint: rgba(184, 138, 28, 0.12);
+  --teal-tint: rgba(30, 77, 79, 0.08);
+
+  --success: #246b3b;
+  --warning: #a16207;
+  --error: #b91c1c;
+
+  --shadow-sm: 0 1px 2px rgba(23, 37, 29, 0.05);
+  --shadow-md: 0 8px 24px rgba(23, 37, 29, 0.08);
+  --shadow-lg: 0 18px 42px rgba(23, 37, 29, 0.1);
+  --image-overlay: linear-gradient(
+    180deg,
+    rgba(23, 37, 29, 0.35) 0%,
+    rgba(23, 37, 29, 0.82) 100%
+  );
+}
